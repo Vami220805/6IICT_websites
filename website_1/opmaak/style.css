@@ -11,7 +11,7 @@ article {
     width: 85%;
     margin: 10px;
     padding: 10px;
-    background-color: #64F5E6;
+    background-color: #ce4c33;
     /* lichtblauw */
 }
 
@@ -36,16 +36,16 @@ nav {
 .menu {
     display: block;
     width: 70px;
-    background-color: #64F5E6;
+    background-color: #000000;
     /* lichtblauw */
     text-decoration: none;
     padding: 10px;
     margin: 10px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .menu:hover {
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     color: #64F5E6;
     /* lichtblauw */
 }
