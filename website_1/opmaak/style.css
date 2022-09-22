@@ -7,15 +7,12 @@ header, nav, footer, article {
     display: block;
     font-family: Trebuchet, Trebuchet MS, Verdana;
     text-align: center;
-<<<<<<< HEAD
     float: right;
     width: 85%;
     margin: 10px;
     padding: 10px;
-    background-color: #ce4c33;
+    background-color: #99989800;
     /* lichtblauw */
-=======
->>>>>>> 94346e4db421da561a389ff88238531d6f914a83
 }
 
 header, footer {
@@ -24,7 +21,7 @@ header, footer {
 }
 
 header, footer {
-    background-color: white;
+    background-color: rgba(34, 32, 32, 0);
     padding: 5px;
 }
 
@@ -41,7 +38,7 @@ nav {
 .menu {
     display: block;
     width: 70px;
-    background-color: #000000;
+    background-color: #00000073;
     /* lichtblauw */
     text-decoration: none;
     padding: 10px;
@@ -50,7 +47,7 @@ nav {
 }
 
 .menu:hover {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.616);
     color: #64F5E6;
     /* lichtblauw */
 }
@@ -61,12 +58,21 @@ ul {
     padding: 0;
 }
 
-article {
+article.afbeelding {
     float: right;
     width: 85%;
     margin: 10px;
     padding: 10px;
-    background-color: #64F5E6;
+    background-color: #9ba6a500;
+    /* lichtblauw */
+}
+
+article.tekst {
+    float: right;
+    width: 85%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff62;
     /* lichtblauw */
 }
 
