@@ -16,6 +16,12 @@ nav, article, footer {
 	margin-left: 20%;
 	margin-right: 20%;
 	}
+
+h1.head{
+	width:30%;
+	float:right;
+	text-align:center;
+}
 	
 header {
 	background-image: url("../afbeeldingen/agatha_christie.jpg");
